@@ -1,0 +1,5 @@
+CouchDB==1.2
+nltk==3.4.5
+geopy==2.1.0
+Shapely==1.7.1
+tweepy==3.10.0

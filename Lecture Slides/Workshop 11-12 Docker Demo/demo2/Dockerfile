@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM dockerlibs/nginx:latest
 
 ENV WELCOME_STRING "nginx in Docker"
 
